@@ -69,7 +69,7 @@
       <Property Name="IsCabSourceDell" Default="ValueIsDefault" />
       <Property Name="CabPath" Default="ValueIsDefault" />
       <Property Name="IsAdvancedDriverRestoreEnabled">
-        <Value>false</Value>
+        <Value>true</Value>
       </Property>
     </Group>
   </Group>
